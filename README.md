@@ -36,7 +36,6 @@ Predictions are made on the scaled test data (X_test_scaled).
 The model's performance is evaluated using:
 Accuracy Score: The overall correctness of the predictions.
 Classification Report: Provides precision, recall, and f1-score for each class.
-Confusion Matrix: A heatmap visually represents the true positives, true negatives, false positives, and false negatives, giving a detailed view of the model's predictive capability.
-8.CONCLUSION
+Confusion Matrix: A heatmap visually represents the true positives, true negatives, false positives, and false negatives, giving a detailed view of the model's predictive capability.8.CONCLUSION FINAL
 This notebook provides a complete workflow for predicting student dropout using a Logistic Regression model, from data preprocessing to model evaluation. The results show a highly accurate model, which can be further refined with more advanced techniques or additional features if available.
 
